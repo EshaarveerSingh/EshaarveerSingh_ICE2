@@ -58,4 +58,8 @@ public class User
         password = givenPass;
     }
     
+    public boolean validatePassword(String password)
+    {
+        return this.password.equals(password);
+    }
 }

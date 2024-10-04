@@ -72,7 +72,7 @@ public class UnoOnline
         userCount++;
         System.out.println("New User Added");
         System.out.println("UserName: " + userName);
-        System.out.println("Password: just kidding can't show password");
+        System.out.println("Succesfull");
     }//end run method
    
     
